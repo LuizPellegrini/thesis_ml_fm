@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"context"
+			],
+			[
+				"jso",
+				"json_data2"
+			],
+			[
+				"j",
+				"json_data"
+			],
+			[
+				"D",
+				"DataFrame"
+			],
+			[
+				"dic",
+				"dict_diff"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"get",
+				"get_mailchimp_api"
+			],
+			[
+				"list",
+				"list_id"
+			],
+			[
+				"vit",
+				"vitalimueller"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"En",
+				"EntryQuerySet"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"N",
+				"null"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"static_",
+				"static_in_pro"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"fro",
+				"from_email"
+			],
+			[
+				"S",
+				"SignUpAdmin"
+			],
+			[
+				"Entry",
+				"EntryAdmin"
+			],
+			[
+				"E",
+				"EntryQuerySet"
+			],
+			[
+				"pub",
+				"publish"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vitali/Desktop/Artist/website/src/analysis/__init__.py",
+		"/home/vitali/Desktop/Artist/website/src/templates/navbar3.html",
+		"/home/vitali/Desktop/Artist/website/src/templates/home3.html",
+		"/home/vitali/Desktop/Artist/website/src/templates/base3.html",
+		"/home/vitali/Desktop/Artist/website/src/artist/view.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/urls.py",
+		"/home/vitali/Desktop/DATA ANALYSIS/artist.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/artist.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/settings.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/settings/__init__.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/settings/production.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/settings/base.py",
+		"/home/vitali/Desktop/Around-Australia/australia/src/australia/settings.py",
+		"/home/vitali/Desktop/Artist/website/webfaction/production.py",
+		"/home/vitali/Desktop/Artist/website/webfaction/httpd.conf",
+		"/home/vitali/Desktop/Artist/website/src/search/models.py",
+		"/home/vitali/Desktop/Artist/website/src/templates/home.html",
+		"/home/vitali/Desktop/Artist/website/src/artist/forms.py",
+		"/home/vitali/Desktop/smmetrics/src/newsletter/views.py",
+		"/home/vitali/Desktop/smmetrics/src/newsletter/forms.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/views.py",
+		"/home/vitali/Desktop/Artist/website/src/search/admin.py",
+		"/home/vitali/Desktop/Around-Australia/australia/src/videos/admin.py",
+		"/home/vitali/Desktop/Artist/website/src/artist/artists.json",
+		"/home/vitali/Desktop/Artist/website/src/dataanalysis/artist.py",
+		"/home/vitali/Desktop/Artist/website/src/templates/header.html",
+		"/home/vitali/Desktop/Artist/website/src/templates/navbar.html",
+		"/home/vitali/Desktop/Around-Australia/australia/src/australia/view.py",
+		"/home/vitali/Desktop/Around-Australia/australia/src/australia/urls.py",
+		"/home/vitali/Desktop/DATA ANALYSIS/data.json",
+		"/home/vitali/Desktop/DATA ANALYSIS/output.json",
+		"/home/vitali/Desktop/Around-Australia/australia/src/templates/base.html",
+		"/home/vitali/Desktop/Around-Australia/australia/src/templates/home.html",
+		"/home/vitali/Desktop/Around-Australia/australia/static/static_dirs/js/ie-emulation-modes-warning.js",
+		"/home/vitali/Desktop/Around-Australia/australia/src/templates/navbar.html",
+		"/home/vitali/Desktop/Around-Australia/australia/src/templates/javascript.html",
+		"/home/vitali/Desktop/Around-Australia/australia/src/templates/header.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/base.html",
+		"/home/vitali/Desktop/Around-Australia/australia/static/static_dirs/css/navbar-static-top.css",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/settings.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/urls.py",
+		"/home/vitali/Desktop/smmetrics/src/profiles/models.py",
+		"/home/vitali/Desktop/smmetrics/src/newsletter/mailchimp.py",
+		"/home/vitali/Desktop/smmetrics/src/profiles/mailchimp.py",
+		"/home/vitali/Desktop/smmetrics/src/profiles/views.py",
+		"/home/vitali/Desktop/smmetrics/src/profiles/migrations/mailchimp.py",
+		"/home/vitali/Desktop/smmetrics/src/templates/home2.html",
+		"/home/vitali/Desktop/smmetrics/src/settings_test/base.py",
+		"/home/vitali/Desktop/smmetrics/src/settings_test/__init__.py",
+		"/home/vitali/Desktop/base.py",
+		"/home/vitali/Desktop/smmetrics/src/settings_test/production.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/settings/production.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/settings/base.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/old_settings.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/settings/__init__.py",
+		"/home/vitali/Desktop/smmetrics/src/trydjango18/settings/local.py",
+		"/home/vitali/Desktop/smmetrics/webfaction/httpd.conf",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/activate.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/500.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/404.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/403.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/400.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/activation_complete.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/activation_email.txt",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/password_change_done.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/password_reset_form.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/password_reset_done.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/password_reset_confirm.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/password_reset_complete.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/password_change_form.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/registration_complete.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/registration_closed.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/forms.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/login.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/logout.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/registration/registration_form.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/about.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/navbar.html",
+		"/home/vitali/Home/anvileight.com/services/index.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/navbar2.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/cv.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/home.html",
+		"/home/vitali/Desktop/VitaliMueller/index.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/base2.html",
+		"/home/vitali/Desktop/smmetrics/src/static_in_pro/our_static/css2/layout.css",
+		"/home/vitali/Desktop/smmetrics/static_in_env/static_root/css2/layout.css",
+		"/home/vitali/Documents/VitaliMueller/index.html",
+		"/home/vitali/Desktop/smmetrics/src/static_in_pro/our_static/js2/jquery.easing.js",
+		"/home/vitali/Desktop/smmetrics/src/templates/javascript.html",
+		"/home/vitali/Desktop/smmetrics/src/templates/head_css2.html",
+		"/home/vitali/Desktop/smmetrics/src/smmetrics/settings.py",
+		"/home/vitali/Desktop/smmetrics/src/templates/head_css.html",
+		"/home/vitali/Documents/vitalimueller/index.html",
+		"/home/vitali/Desktop/smmetrics/src/static_in_pro/our_static/css/custom.css",
+		"/home/vitali/Desktop/smmetrics/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/vitali/Desktop/smmetrics/src/smmetrics/views.py",
+		"/home/vitali/Desktop/smmetrics/src/smmetrics/urls.py",
+		"/home/vitali/Desktop/smmetrics/src/templates/example_fluid.html",
+		"/home/vitali/Desktop/smmetrics/src/newsletter/models.py",
+		"/home/vitali/Desktop/smmetrics/src/static_in_pro/our_static/img/example.txt",
+		"/home/vitali/Desktop/smmetrics/src/newsletter/admin.py",
+		"/home/vitali/Desktop/smmetrics/src/newsletter/templates/home.html",
+		"/home/vitali/Desktop/vitali/src/blog/models.py",
+		"/home/vitali/Desktop/vitali/src/vitali/urls.py",
+		"/home/vitali/Desktop/vitali/src/vitali/settings.py",
+		"/home/vitali/Desktop/vitali/src/blog/admin.py",
+		"/home/vitali/Desktop/test.html",
+		"/home/vitali/Desktop/vitali/src/profiles/models.py",
+		"/home/vitali/Desktop/style_600.css",
+		"/home/vitali/Desktop/style_768.css",
+		"/home/vitali/Desktop/style_large.css",
+		"/home/vitali/Desktop/index.html",
+		"/home/vitali/Desktop/fucko.py",
+		"/home/vitali/Desktop/adp.py",
+		"/home/vitali/Desktop/web/src/manage.py",
+		"/home/vitali/Desktop/web/src/profiles/models.py",
+		"/home/vitali/Desktop/web/src/db.sqlite3",
+		"/home/vitali/Desktop/web/pip-selfcheck.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id_full_name",
+			"loader.gif ",
+			"widgets/icon_an",
+			"Drawing",
+			"ModelAdmin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thesis.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
